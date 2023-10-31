@@ -1,6 +1,11 @@
 # Viveros
 Modelo relacional Viveros
 
+
+Modelo entidad/relacion Viveros:
+
+![farmacia (1)](https://github.com/SamuelToledoHdez/Viveros/assets/92159124/05604e95-8494-435a-a1ca-29c8211548c2)
+
 Tabla vivero:
 
 "SELECT * FROM "vivero" LIMIT 1000;
