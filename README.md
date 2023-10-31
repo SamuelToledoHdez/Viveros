@@ -2,7 +2,9 @@
 Modelo relacional Viveros
 
 Modelo Relacional:
-![WhatsApp Image 2023-11-01 at 00 02 48](https://github.com/SamuelToledoHdez/Viveros/assets/92159124/08885295-59b3-46f1-bbef-21e3363b1371)
+
+![WhatsApp Image 2023-11-01 at 00 02 48](https://github.com/SamuelToledoHdez/Viveros/assets/92159124/c5ad250b-6233-4047-b8cc-830fb73d3920)
+
 
 
 Modelo entidad/relacion Viveros:
