@@ -1,6 +1,20 @@
 # Viveros
 Modelo relacional Viveros
 
+Descripción:
+"Partiendo del modelo entidad-relación sobre viveros ya elaborado, realice el modelo relacional asociado a este escenario. Siéntase libre para modificar el modelo entidad-relación creado si considera que puede mejorarlo.
+Debe generar un script SQL para PostgreSQL con las siguientes características:
+Debe crear una base de datos viveros.
+Debe construir las tablas del modelo relacional. Elija para cada tabla los tipos de atributos más adecuados, las restricciones tipo CHECK así como las restricciones necesarias para realizar las operaciones de eliminación o actualización de forma oportuna (en cascada, por defecto, etc.).
+Debe definir correctamente los atributos de las tablas que sean derivados (calculados) en el modelo entidad-relación.
+Incluya al menos 5 filas en cada una de las tablas creadas. Las inserciones deben abordar todos los escenarios posibles en las tablas involucradas.
+Incluya ejemplos representativos de las operaciones DELETE.
+Antes de realizar la entrega, compruebe que puede importar correctamente el script SQL generado en PostgreSQL."
+
+He decidido adjuntar todos los ficheros solicitados para la práctica en el README del proyecto, tanto los archivos de .sql guardados en extensión pgsql debido a que trabaje desde la extensión de postgreSQL desde el propio visual Studio CODE, he generado un script para crear las tablas uno para insertar los elementos dentro de las tabalas ("filas") y otro archivo selects para hacer las llamadas. El resto de la práctica se encuentra dentro del README con todos los archivos asociados
+
+
+
 Modelo Relacional:
 
 ![WhatsApp Image 2023-11-01 at 00 02 48](https://github.com/SamuelToledoHdez/Viveros/assets/92159124/c5ad250b-6233-4047-b8cc-830fb73d3920)
